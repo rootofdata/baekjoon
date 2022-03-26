@@ -1,4 +1,4 @@
-#셀프넘버
+#셀프넘버 
 def d(n):
     ans=n
     for i in range(0,len(str(n))):
