@@ -1,5 +1,4 @@
 #평균
-
 num = int(input())
 score = list(map(int,input().split()))
 m=max(score)
