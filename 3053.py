@@ -1,3 +1,4 @@
+#택시 기하학
 import math
 R= int(input())
 print(round(R*R*math.pi,6))
